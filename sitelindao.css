@@ -1,0 +1,33 @@
+
+body{ background-image: url('AdobeStock_295879539.jpeg');}
+
+
+
+.menu{
+	margin-top: 20px;
+    color: white;
+    font-family: impact;
+	text-align: center;
+	font-size: 30px;}
+
+
+
+.conteudo{
+    color: white;
+    font-family: impact;
+    text-align: center;
+	font-size: 40px;
+	margin: 300px;}
+
+
+
+img {position: absolute;
+width: 100vw;
+height: 100vh;
+opacity: .5;}
+
+
+.textos{
+	position: relative;
+	z-index: 1;
+}
